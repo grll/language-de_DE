@@ -1,8 +1,8 @@
 {
-    "name": "community-engineering/language-de_de",
+    "name": "iod/language-de_ch",
     "version": "0.0.19",
     "type": "magento2-language",
-    "description": "de_DE language package.",
+    "description": "de_CH language package.",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
